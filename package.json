@@ -5,9 +5,9 @@
   "homepage": "https://jukim1234.github.io/standup",
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "react": "^16.5.0",
-    "react-dom": "^16.5.0",
-    "react-scripts": "1.1.5"
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-scripts": "^1.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
